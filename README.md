@@ -5,9 +5,6 @@ Naaptol Automation Project bu Using Cucumber testNG Framework
 This project demonstrates automated testing of the "Beauty & Wellness" category on the Naaptol website using Selenium WebDriver. 
 The script navigates through the category, interacts with elements, and verifies expected outcomes.
 
-*Project Type
-Backend
-
 *Deplolyed App
 Naptol 
 URL- https://www.naaptol.com/ 
